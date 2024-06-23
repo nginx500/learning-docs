@@ -11,5 +11,7 @@ exception handling
 threads
 files
 collections
+system properties , environment variables
+jar handling
 ```
 
