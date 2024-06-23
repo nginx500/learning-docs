@@ -2,7 +2,6 @@
 class & objects
 datatypes
 constructors
-static & non-static blocks, methods, variables
 operators
 flow control
 arrays
@@ -13,5 +12,6 @@ files
 collections
 system properties , environment variables
 jar handling
+static & non-static blocks, methods, variables
 ```
 
